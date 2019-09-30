@@ -6,3 +6,7 @@ def sub(a, b):
 
 def mul(a, b):
     return a * b
+
+def hello():
+     print("hello")
+     retrun 1
